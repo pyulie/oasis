@@ -1,0 +1,101 @@
+body {
+    background-color: #fef5ea;
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style-type: none;
+    margin: 30px;
+    padding: 10px;
+    overflow: hidden;
+    color: rgb(93, 58, 44);
+    text-align: right;
+    font-family: Malayalam MN;
+  }
+  h1 {
+    color: rgb(93, 58, 44);
+    font-family: "Moon Dance";
+    text-align: center;
+    padding-top: 8%;
+  }
+  h2 {
+    color: rgb(93, 58, 44);
+    font-family: "Ingrid Darling", cursive;
+    text-align: center;
+  }
+  .lbunny {
+    width: 200px;
+    height: 330px;
+    margin-top: -10%;
+    margin-left: 12%;
+    margin-bottom: 100px;
+    float: left;
+  }
+  .rbunny {
+    width: 200px;
+    height: 330px;
+    margin-top: -10%;
+    margin-right: 12%;
+    margin-bottom: 100px;
+    float: right;
+  }
+  .fmission {
+    color: rgb(93, 58, 44);
+    font-family: Malayalam MN;
+    margin-top: 400px;
+    margin-left: 200px;
+  }
+  .text-with-line {
+    display: flex;
+    align-items: center;
+    color: rgb(93, 58, 44);
+    max-width: 50%;
+    margin: 20px auto;
+    margin-right: 100px;
+    margin-bottom: 250px;
+    font-family: Malayalam MN;
+  }
+  
+  .mission {
+    flex: 1; /* Make the text fill remaining space */
+  }
+  
+  .vertical-line {
+    height: 190px;
+    width: 3px;
+    background-color: #ffe6e6;
+    margin-right: 20px;
+  }
+  .image-container {
+    text-align: right;
+    margin-right: 100px;
+  }
+  .spring {
+    width: 600px;
+    height: 340px;
+    border-radius: 10px;
+    margin-bottom: 330px;
+    margin-right: 3%;
+  }
+  .summer {
+    width: 600px;
+    height: 340px;
+    border-radius: 10px;
+    margin-bottom: 300px;
+    margin-right: 3%;
+  }
+  .first,
+  .second {
+    font-family: Malayalam MN;
+    color: rgb(93, 58, 44);
+    float: left;
+  }
+  .first {
+    margin-top: 10%;
+    margin-left: 20%;
+  }
+  .second {
+    margin-bottom: 10%;
+    margin-left: -65px;
+    margin-top: 15%;
+  }  
